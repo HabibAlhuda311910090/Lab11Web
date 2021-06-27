@@ -11,3 +11,5 @@
 <img width="430" alt="7" src="https://user-images.githubusercontent.com/81343412/121469043-ff215380-c9e5-11eb-91f9-44b97c2067ad.PNG">
 <img width="267" alt="8" src="https://user-images.githubusercontent.com/81343412/121469051-02b4da80-c9e6-11eb-9a20-18316c472d15.PNG">
 
+<br>Praktikum 13 </br>
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/81343412/123545428-1dc37080-d782-11eb-8af8-fa23484ce6d2.PNG">
